@@ -10,11 +10,11 @@
 
 NFTs are online certificates of authenticity and ownership. They present the strengths of blockchain (public ledger, permanence, decentralization) in a visual, digital format that is easy to store and display. The digital arts community was the first to leverage NFTs, however the scope of NFTs have evolved from its initial usage and are disrupting almost every industry. In the events and meetup space, they are proof of attendance NFTs, event organizers issue NFTs to attendees as a proof that the NFT holder attended the event. In the social good sector Impact NFTs will serve as a "proof of giving" issued by nonprofits in exchange for donating time and money. Impact NFTs will help filter the doers from the talkers. 
 
-# The Problem 
+# The problem 
 
 Social Media has given people a platform to talk about the issues they care about. People like, retweet stuff about the causes they care most but often social media actions lacks real commitment and action towards the cause. Termed as Slacktivism its a lazy attempt to show you care without taking real action.
 
-# The Solution
+# The solution
 
 Imapct NFTs fix slacktivisim. Impact NFTs will highlight and reward the doers by serving as a proof of giving certificate, publicly verifiable and immutable. Twitter now allows NFTs to be displayed as profile pictures thus indentifying the user as the owner of the NFT. There is news that Meta might do the same for Facebook and Instagram. Displaying Impact NFTs as profile pictures will let people show off their charitable side. As people continue to live more of their lives online, they are looking for ways to create their online identity. The NFTs they hold are an expression of their online identity and impact NFTs will play a crucial role in the online identity composition. 
 
@@ -37,7 +37,7 @@ The Protocol will also make it easy for nonprofits to issue impact NFTs to its s
 
 The goal is to provide an end to end solution to social impact organizations (nonprofits, social enterprises and cause driven DAOs) to create, mint and distribute impact NFTs. The artwork gallery offers designs that social impact organizations can use off the shelf but the protocol will also provide the capability to customize. 
 
-# Few Examples of Impact NFT Usage
+# A few examples
 
 A nonprofit can issue NFTs to its donors and volunteers with an image that represents them or their work. The NFT description provides the details of why the NFT was issued.
 
@@ -49,6 +49,6 @@ NFTs for special campaigns. If a nonprofit organizes a fundraiser to build a sch
 
 Impact NFTs can be resold with 100% or 85% of the monies going back to the creator (in this case the nonprofit)
 
-# Support for the Project
+# Support for the project
 
 I’m really excited by the idea of the Impact Protocol as I believe it’s the beginning of something big. If you're interested in helping bring Impact NFs to life give this repo a star or open a pull reqwuest. This project is owned and defined by the community we need devs, artists and thinkers, join us.
