@@ -23,7 +23,7 @@ Imapct NFTs fix slacktivisim. Impact NFTs will highlight and reward the doers by
 The goal of the Impact Protocol is to make it easy for nonprofits to use Impact NFTs. The social good sector mostly lacks resources, money and artistic sophistication needed in the NFT space. 
 
 ## Create 
-Good design is essential and most times nonprofits lack design expertise. Similar to Unsplash, the Impact Protocol will have a free to use collection of high quality artworks representing various causes. Creators donate artwork under a creative commons license with attribution. Nonprofits can use this artwork in their Impsct NFTs. Creatres are awarded with recognition and royaaltis if the NTF is sold ahead.
+Good design is essential and most times nonprofits lack design expertise. Similar to Unsplash, the Impact Protocol will have a free to use collection of high quality artworks representing various causes. Creators donate artwork under a creative commons license with attribution. Nonprofits can use this artwork in their Impact NFTs. Creatres are awarded with recognition and royalties if the NTF is sold ahead.
 
 Initially the aim will be to create a collection of artwork around the 17 themes of the Sustainable Development Goals (SDGSs). SDGs are identified by UN and considered as the "blueprint to achieve a better and more sustainable future for all people and the world by 2030"
 
