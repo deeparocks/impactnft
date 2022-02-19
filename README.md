@@ -23,7 +23,7 @@ Imapct NFTs fix slacktivisim. Impact NFTs will highlight and reward the doers by
 The goal of the Impact Protocol is to make it easy for nonprofits to use Impact NFTs. The social good sector mostly lacks resources, money and artistic sophistication needed in the NFT space. 
 
 ## Create 
-Good design is essential and most times nonprofits lack design expertise. Similar to Unsplash, the Impact Protocol will have a free to use collection of high quality artworks representing various causes. Creators donate artwork under a creative commons license with attribution. Nonprofits can use this artwork in their Impact NFTs. Creatres are awarded with recognition and royalties if the NFT is sold ahead.
+Good design is essential and most times nonprofits lack design expertise. Similar to Unsplash, the Impact Protocol will have a free to use collection of high quality artworks representing various causes. Creators donate artwork under a creative commons license with attribution. Nonprofits can use this artwork in their Impact NFTs. Creators are awarded with recognition and royalties if the NFT is sold ahead.
 
 Initially the aim will be to create a collection of artwork around the 17 themes of the Sustainable Development Goals (SDGSs). SDGs are identified by UN and considered as the "blueprint to achieve a better and more sustainable future for all people and the world by 2030"
 
@@ -51,4 +51,4 @@ Impact NFTs can be resold with 100% or 85% of the monies going back to the creat
 
 # Support for the project
 
-I’m really excited by the idea of the Impact Protocol as I believe it’s the beginning of something big. If you're interested in helping bring Impact NFs to life give this repo a star or open a pull reqwuest. This project is owned and defined by the community we need devs, artists and thinkers, join us.
+I’m really excited by the idea of the Impact Protocol as I believe it’s the beginning of something big. If you're interested in helping bring Impact NFTs to life give this repo a star or open a pull reqwuest. This project is owned and defined by the community we need devs, artists and thinkers, join us.
