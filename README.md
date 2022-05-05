@@ -2,8 +2,8 @@
 
 * An open source, decentralized protocol that defines Impact NFTs 
 * Impact NFTs are tokens awarded to people who have contributed towards causes
-* Impact NFTs are a proof of impact issued by nonprofits to those making an impact
-* Our goal is to make adoption of impact NFTs easy for nonprofits
+* Impact NFTs are a proof of impact issued by nonprofits/Imapct DAOs to those making an impact
+* Our goal is to make issuing of impact NFTs easy for nonprofits/Imapct DAOs
 * Impact NFTs will be an important part of our online identities, one that signals "that you care"
 
 # Why Impact NFTs
